@@ -4,3 +4,7 @@
 /airline0/flights/migrations/__pycache__/
 /airline0/users/migrations/__pycache__/
 /__pycache__/
+/airline0/.idea/
+*.sqlite3
+/airline0/.idea/
+/airline0/.idea/
