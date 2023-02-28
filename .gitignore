@@ -8,3 +8,4 @@
 *.sqlite3
 /airline0/.idea/
 /airline0/.idea/
+/airline0/selenium/__pycache__
